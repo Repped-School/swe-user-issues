@@ -1,0 +1,6 @@
+blank_issues_enabled: false
+
+contact_links:
+  - name: Questions / help (use the Question template if possible)
+    url: https://github.com/Repped-School/swe-onboarding-sandbox/new?template=question.md
+    about: If you're blocked, start here (or use the Question / Help Needed template)
